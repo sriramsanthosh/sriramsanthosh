@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sriramsanthosh
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate on development
+- 💞️ I’m looking to collaborate on software development
 - 📫 Reach me on https://www.linkedin.com/in/sriramsanthosh/
 
 <!---
