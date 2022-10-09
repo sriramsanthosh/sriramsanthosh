@@ -2,7 +2,6 @@
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Web Development
 - 📫 Reach me on <a href = "https://www.linkedin.com/in/sriramsanthosh/" target = "_blank">LinkedIn</a>
-- 
 <!---- 💞️ I’m looking to collaborate on --->
 <!---
 sriramsanthosh/sriramsanthosh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
