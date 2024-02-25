@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sriramsanthosh
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently working on Web Development
+- 👀 I’m interested in Web Development and Software Developer Engineer.
+- 🌱 I’m currently working on React
 - 📫 Reach me on <a href = "https://www.linkedin.com/in/sriramsanthosh/" target = "_blank">LinkedIn</a> and also on my <a href = "https://sriramsanthosh.github.io/portfolio/" target = "_blank">PortFolio🚀</a>
 <!---- 💞️ I’m looking to collaborate on --->
 <!---
