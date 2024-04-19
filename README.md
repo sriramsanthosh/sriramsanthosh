@@ -9,7 +9,7 @@ Hello! I'm a Web Developer. My expertise lies in both front-end and back-end dev
 - :student: I’m currently doing BTech in `Electronics and Communication`.
 - :nerd_face: Always `learning new things`.
 - :thinking: I’m currently open for `an Intern` or a new `job opportunity`.
-- 📫 Reach me on <a href = "https://www.linkedin.com/in/sriramsanthosh/" target = "_blank">LinkedIn</a> and also on my <a href = "https://sriramsanthosh.github.io/portfolio/" target = "_blank">PortFolio</a>🚀
+- 📫 Reach me on <a href = "https://www.linkedin.com/in/sriramsanthosh/" target = "_blank">LinkedIn</a> and also on my <a href = "https://sriramsanthosh.great-site.net" target = "_blank">PortFolio</a>🚀
 <!---- 💞️ I’m looking to collaborate on --->
 <!---
 sriramsanthosh/sriramsanthosh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
