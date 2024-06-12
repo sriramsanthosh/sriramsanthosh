@@ -4,9 +4,9 @@ I'm a Web Developer. My expertise lies in both front-end and back-end developmen
 
 <br>
 	
-- :technologist: I love using the software as a solution for every `problem`.
-- :nerd_face: Always interested in `learn new things`.
-- :student: I did my graduation from `NIT Agartala`.
+- :technologist: I love using software to solve every `problem`.
+- :nerd_face: Always interested in `learning new things`.
+- :student: I graduated from `NIT Agartala` in the `Electronics and Communication Engineering (ECE) stream.
 - :thinking: Currently looking for opportunities and open for `an Intern` or a `full-time` job opportunity.
 - 📫 Reach me on <a href = "https://www.linkedin.com/in/sriramsanthosh" target = "_blank">LinkedIn</a> and also on my <a href = "https://sriramsanthosh-portfolio.vercel.app" target = "_blank">PortFolio</a>🚀
 <!---- 💞️ I’m looking to collaborate on --->
